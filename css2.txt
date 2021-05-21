@@ -1,0 +1,70 @@
+41) Which of the following CSS property is used to add stroke to the text?
+
+text-stroke property
+text-transform property
+text-decoration property
+None of the above
+Answer text-stroke property
+42) Which of the following CSS property is used to set the blend mode for each background layer of an element?
+
+background-blend-mode property
+background-collapse property
+background-transform property
+background-origin property
+Answer background-blend-mode property
+43) The CSS property used to specify the transparency of an element is -
+
+Hover
+opacity
+clearfix
+overlay
+Answer opacity
+44) Which of the following CSS property is used to set the horizontal alignment of a table-cell box or the block element?
+
+text-align property
+text-transform property
+text-shadow property
+text-decoration
+Answer text-align property
+45) The CSS property which is used to set the text wider or narrower compare to the default width of the font is -
+
+font-stretch property
+font-weight property
+text-transform property
+font-variant property
+Answer font-stretch property
+46) Which of the following CSS property is used to specify the type of quotation mark?
+
+quotes property
+z-index property
+hyphens property
+None of the above
+Answer quotes property
+47) The CSS property used to specify the order of flex item in the grid container is -
+
+order property
+float property
+overflow property
+None of the above
+Answer order property
+48) The CSS property used to set the indentation of the first line in a block of text is -
+
+text-indent property
+text-stroke property
+text-decoration property
+text-overflow property
+Answer text-indent property
+49) Which of the following CSS property creates a clipping region and specifies the visible area of the element?
+
+visibility property
+background-clip property
+clip-path property
+None of the above
+Answer clip-path property
+50) The correct syntax to give a line over text is -
+
+text-decoration: line-through
+text-decoration: none
+text-decoration: overline
+text-decoration: underline
+Answer text-decoration: overline
